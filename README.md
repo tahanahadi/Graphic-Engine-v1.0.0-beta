@@ -8,3 +8,6 @@ The <strong>graphics engine</strong> is a powerful game engine developed and pub
 
 <h1>What features does the graphic engine have?</h1>
 <p>
+• Support for multiple animations
+  <p>
+• Activation of the virtual server for multiplayer games (online games)
