@@ -11,3 +11,11 @@ The <strong>graphics engine</strong> is a powerful game engine developed and pub
 • Support for multiple animations
   <p>
 • Activation of the virtual server for multiplayer games (online games)
+<p>
+• The possibility of making 1D, 2D and 3D games
+<p>
+• It has intelligent AI that helps you fix bugs and improves your game
+<p>
+• It has an open and simple environment for coding
+<p>
+• The possibility of choosing the quality of the game as desired
